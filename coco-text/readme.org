@@ -1,0 +1,2 @@
+* [[https://vision.cornell.edu/se3/coco-text-2/]]
+* [[https://github.com/andreasveit/coco-text]]

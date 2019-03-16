@@ -1,0 +1,3 @@
+* [[https://blog.just4fun.site/NLP-corpus.html]]
+* [[http://www.hankcs.com/nlp/corpus/]]
+* [[http://www.52nlp.cn/opencorpus]]
